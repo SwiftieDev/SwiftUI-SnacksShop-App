@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "energy_drink.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
